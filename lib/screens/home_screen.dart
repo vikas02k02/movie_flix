@@ -33,7 +33,10 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
-        title: const Text("MovieFlix"), //7:07 timestamp
+        title:  Image.asset('assets/app_name.png',
+        fit: BoxFit.cover,
+        height: 40,
+        filterQuality: FilterQuality.high,),
         centerTitle: true,
       ),
       body: SingleChildScrollView(
