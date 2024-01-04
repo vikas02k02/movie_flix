@@ -1,16 +1,16 @@
 # movie_flix
 
-A new Flutter project.
+Flutter application which list the top rated moives , upcoming movies and trending movies with clean and beautiful UI .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here is the Image of the application 
+This is the Main Screen .It shows the list of trending movies , upcoming movings and top rated movies.
+![Main](https://github.com/vikas02k02/movie_flix/assets/110327151/6be9abdc-9661-4a44-a356-244551e42b85)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+On click of any movie , it will be redirected to details screen where we will get the details of the movie selected
+![overview](https://github.com/vikas02k02/movie_flix/assets/110327151/012b8d20-a708-4b5b-bdc3-ea508b03701a)
+
+
